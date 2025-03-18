@@ -83,8 +83,11 @@ Here is a simple **HTML & CSS** snippet from the project:
 This project is licensed under MIT License.
 
 ## 👥 Team & Contributors
-• Your Name  
-• Contributor Name  
+• Salaj Kumar
+• Keshav
+• Shally
+• Shubhi
+• Sajal
 
 ---
 
